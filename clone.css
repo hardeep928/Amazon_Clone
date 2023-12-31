@@ -6,7 +6,19 @@ header
 {
     background-color: rgb(29, 29, 57);
     width:1536px; 
-    height:70px;
+    height:76px;
     margin-top:-15.7px;
     margin-right:10px;
+}
+#amalogo
+{
+    width:134px;
+    margin-top:25px;
+    margin-left: 10px;
+}
+.Logo :hover
+{
+    border-style:solid;
+    border-color:white;
+    border-width: 1px;
 }
